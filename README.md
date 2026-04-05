@@ -1,3 +1,5 @@
+#Steps to Get-start with
+
 1)	Steps to Obtain a Webhook URL for Slack
 a.	Create a Slack App:
 	Navigate to Slack API Apps and click "Create an App".
@@ -63,4 +65,3 @@ capture the logs
    chmod +x bash.sh(filename)
    ./bash.sh
 
-----------------------------------------------------THANK YOU @bokkala project TEAM-----------------------------------------------------------
